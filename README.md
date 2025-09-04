@@ -10,11 +10,11 @@
 ```ini
 SECRET_KEY=your-secret-key
 
-DB_NAME=bank_service_db
-DB_USER=postgres
-DB_PASSWORD=1234
-DB_HOST=localhost
-DB_PORT=5432
+DB_NAME=
+DB_USER=
+DB_PASSWORD=
+DB_HOST=
+DB_PORT=
 
 OPENAI_API_KEY=sk-xxxx
 ---
